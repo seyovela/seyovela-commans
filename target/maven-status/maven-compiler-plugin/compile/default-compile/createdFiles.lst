@@ -1,0 +1,9 @@
+org/seyovela/ids/jpa/OrgRoleConverter.class
+org/seyovela/ids/jpa/MembershipStatusConverter.class
+org/seyovela/ids/RecordStatus.class
+org/seyovela/ids/AccountStatus.class
+org/seyovela/ids/jpa/AccountStatusConverter.class
+org/seyovela/ids/OrgRole.class
+org/seyovela/ids/MembershipStatus.class
+org/seyovela/ids/SeyovelaIds.class
+org/seyovela/ids/jpa/RecordStatusConverter.class
